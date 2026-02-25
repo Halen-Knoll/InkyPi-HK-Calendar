@@ -1,5 +1,6 @@
 {
     "display_name": "HK Calendar",
     "id": "hk_calendar",
-    "class": "HKCalendar"
+    "class": "HKCalendar",
+    "repository": "https://github.com/Halen-Knoll/InkyPi-HK-Calendar.git"
 }
